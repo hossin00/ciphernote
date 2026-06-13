@@ -1,0 +1,27 @@
+{
+  "name": "CipherNote",
+  "short_name": "CipherNote",
+  "description": "Encrypted private diary. PIN lock. No cloud.",
+  "start_url": "/ciphernote/",
+  "scope": "/ciphernote/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#a855f7",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/ciphernote/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/ciphernote/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
